@@ -23,6 +23,6 @@
   "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
   "license": "MPL-2.0",
   "dependencies": {
-    "@root/request": "^1.6.1"
+    "@root/request": "^1.9.2"
   }
 }
